@@ -1,0 +1,23 @@
+{
+    "name": "twitterbot",
+    "version": "1.0.0",
+    "description": "this bot gets a random image from unsplash.com and uploads it to twitter.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PatrickBrennan92/randomImageToTwitterBot.git"
+    },
+    "author": "p brennan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PatrickBrennan92/randomImageToTwitterBot/issues"
+    },
+    "homepage": "https://github.com/PatrickBrennan92/randomImageToTwitterBot#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "twitter-lite": "^0.14.0"
+    }
+}
